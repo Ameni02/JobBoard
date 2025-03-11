@@ -29,6 +29,20 @@ public class CandidatRestApi {
         return welcomeMessage;
     }
 
+    @Autowired
+    private CandidatService candidatService;
+
+    @RequestMapping("/helloJobs")
+    public String sayHelloJob(){
+        return candidatService.sayHelloJob();
+    }
 
 
+
+    @GetMapping(produces = MediaType.APPLICATION_JSON_VALUE)
+    public ResponseEntity<List <Candidat>> listCandidat(){
+        return new ResponseEntity<>(candidatService.findAll(),
+                HttpStatus.OK);
+
+    }
 }

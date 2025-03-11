@@ -3,7 +3,7 @@
 ## 📌 About the Project
 **Job Aboard** is an **academic project** designed to help students **master microservices architecture** through a **30-hour hands-on training program**. The project focuses on building a **job listing management system** using a microservices approach.
 ## 📌Project Architecture
-![Project Architecture](https://raw.githubusercontent.com/badi3a/JobBoard/52b273741fa48718581e5216ec516d124ae314f3/documentation/diag/microservices-global-architecture.drawio%20(1).png)
+![](https://github.com/badi3a/JobBoard_Microservice/blob/main/documentation/diag/microservices-global-architecture.drawio%20(2).png)
 
 ## 🎯 Main Goal
 The primary objective of this project is to provide students with:  
@@ -27,8 +27,11 @@ Throughout the training, students will work with:
 ## 🚀 Learning Outcome
 By the end of this training, students will be able to **design, develop, and deploy scalable and secure microservices applications**, preparing them for real-world software architecture challenges.
 
+---  
+---  
 ## 🎓 Acknowledgment
 This project is part of the academic training provided by **ESPRIT School of Engineering**, aiming to equip students with industry-relevant skills in modern software development.
 ## 👨‍🏫 Contact
 Connect with me on LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/badiabouhdid/)
----  
+
+
